@@ -1,0 +1,7 @@
+services:
+  test:
+    build: .
+    volumes:
+      - ./features:/work/features:ro
+      - ./steps:/work/steps:ro
+      - ./report:/work/report
