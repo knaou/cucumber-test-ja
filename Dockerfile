@@ -1,4 +1,4 @@
-FROM node:20
+FROM node:21
 
 RUN apt-get update && \
   apt-get install -y libatk-bridge2.0-0 libxss1 libnss3  libcups2  libxkbcommon-dev \
