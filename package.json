@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@cucumber/cucumber": "^9.5.1",
+    "@cucumber/cucumber": "^12.6.0",
     "@playwright/test": "^1.38.1",
     "chai": "^4.3.8",
     "pako": "^2.1.0",
